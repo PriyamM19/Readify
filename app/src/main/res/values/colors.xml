@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121E4C</color>
+    <color name="colorPrimaryDark">#118282</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="notification_led_color">#FF0000</color> <!-- Red color for LED -->
+
+</resources>

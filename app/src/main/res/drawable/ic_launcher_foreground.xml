@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Page Background -->
+    <path
+        android:fillColor="#282582"
+        android:pathData="M4,2h16c1.1,0,2,0.9,2,2v16c0,1.1,-0.9,2,-2,2H4c-1.1,0,-2,-0.9,-2,-2V4c0,-1.1,0.9,-2,2,-2z" />
+
+    <!-- Page Border -->
+    <path
+        android:fillColor="#D3D3D3"
+        android:pathData="M4,2h16v20H4V2z"
+        android:strokeWidth="0.5"
+        android:strokeColor="#FFFFFF" />
+
+    <!-- Page Content Line 1 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M6,6h12v1H6z" />
+
+    <!-- Page Content Line 2 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M6,8h10v1H6z" />
+
+    <!-- Page Content Line 3 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M6,10h8v1H6z" />
+
+    <!-- Page Content Line 4 -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M6,12h10v1H6z" />
+
+    <!-- Bookmark (Placed in front of content lines) -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M18,2v16l-4,-2l-4,2V2h8z" />
+
+</vector>
